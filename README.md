@@ -96,6 +96,7 @@ Table of Contents
   
   * [Yakindu](https://education.github.com/pack/redeem/yakindu) [FREE] - An integrated modelling environment for the specification and development of reactive, event-driven systems based on the concept of state machines.Yakindu Professional Edition free for 1 year.
 
+  * [MDBootstrap Student](https://mdbootstrap.com/student-request/) [DISCOUNT] and [MDB EDU](https://mdbootstrap.com/education/mdb-academy/) [FREE] - MDB Academy to learn the most important web technologies & student discount for a framework used to build responsive, mobile-first websites, and apps with a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
 
 ## Version Control
 
